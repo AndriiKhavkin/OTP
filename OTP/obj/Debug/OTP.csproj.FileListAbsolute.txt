@@ -1,0 +1,6 @@
+D:\Users\Andre\RiderProjects\OTP\OTP\bin\Debug\OTP.exe
+D:\Users\Andre\RiderProjects\OTP\OTP\bin\Debug\OTP.pdb
+D:\Users\Andre\RiderProjects\OTP\OTP\obj\Debug\OTP.csproj.AssemblyReference.cache
+D:\Users\Andre\RiderProjects\OTP\OTP\obj\Debug\OTP.csproj.CoreCompileInputs.cache
+D:\Users\Andre\RiderProjects\OTP\OTP\obj\Debug\OTP.exe
+D:\Users\Andre\RiderProjects\OTP\OTP\obj\Debug\OTP.pdb
